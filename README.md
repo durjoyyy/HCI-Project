@@ -22,6 +22,6 @@ We thank Dr. Jayashree ma'am for her constant support and also for guiding us to
 
 ## Team Members:
 Surabhi S            - PES1201800849  
-Chinmayee K P        - PES1201801446  
+Chinmayee K P        - PES1201801446
 Vrushabh A Chougale  - PES1201801495
-Durjoy Ghosh         - PES1201802124 
+Durjoy Ghosh         - PES1201802124
