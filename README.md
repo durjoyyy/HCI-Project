@@ -21,7 +21,7 @@ This repo contains all deliverables for the course - Human Computer Interaction 
 We thank Dr. Jayashree ma'am for her constant support and also for guiding us to complete this project, successfully.
 
 ## Team Members:
-Surabhi S            - PES1201800849
-Chinmayee K P        - PES1201801446
-Vrushabh A Chougale  - PES1201801495
-Durjoy Ghosh         - PES1201802124
+Surabhi S            - PES1201800849,
+Chinmayee K P        - PES1201801446,
+Vrushabh A Chougale  - PES1201801495,
+Durjoy Ghosh         - PES1201802124,
