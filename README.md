@@ -3,7 +3,7 @@ This repo contains all deliverables for the course - Human Computer Interaction 
 
 1. [Low-Fidelity Prototype](./Low_Fidelity_Prototype)
 2. [High-Fidelity Prototype](./High_Fidelity_Prototype)
-3. [Concept Video](./Concept Video)
+3. [Concept Video]
 4. Heuristic evaluation is presented in the ```HCI.pdf```
 5. [Story Boarding](./Low_Fidelity_Prototype)
 
