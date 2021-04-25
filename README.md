@@ -8,7 +8,7 @@ This repo contains all deliverables for the course - Human Computer Interaction 
 5. [Story Boarding](./Low_Fidelity_Prototype)
 
 
-### The [project pdf](./HCI_project_PPT.pdf) contains :
+### The [project pdf](./HCI.pdf) contains :
 - Abstract
 - Need findings
 - Empathy Map
