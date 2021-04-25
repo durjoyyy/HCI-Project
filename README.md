@@ -9,12 +9,12 @@ Heuristic evaluation is presented in the HCI_project_PPT.pdf
 
 
 The project pdf contains :
-Abstract
-Need findings
-Empathy Map
-Heuristic Evaluation
-Low-fidelity diagrams
-High-fidelity diagrams
+1.Abstract
+2.Need findings
+3.Empathy Map
+4.Heuristic Evaluation
+5.Low-fidelity diagrams
+6.High-fidelity diagrams
 
 
 Acknowledgement
