@@ -9,12 +9,12 @@ This repo contains all deliverables for the course - Human Computer Interaction 
 
 
 ### The [project pdf](./HCI_project_PPT.pdf) contains :
--Abstract
--Need findings
--Empathy Map
--Heuristic Evaluation
--Low-fidelity diagrams
--High-fidelity diagrams
+- Abstract
+- Need findings
+- Empathy Map
+- Heuristic Evaluation
+- Low-fidelity diagrams
+- High-fidelity diagrams
 
 
 ## Acknowledgement
