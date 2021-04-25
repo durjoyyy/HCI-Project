@@ -1,11 +1,11 @@
 # HCI_Project
 This repo contains all deliverables for the course - Human Computer Interaction [UE18CS348]
 
-1. [Low-Fidelity Prototype](./low_fidelity_prototype)
-2. [High-Fidelity Prototype - Demo](https://pvn-leo.github.io/hci-project/)
-3. [Concept Video](./concept_video)
-4. Heuristic evaluation is presented in the ```HCI_project_PPT.pdf```
-5. [Story Boarding](./HCI_project_PPT.pdf)
+1. [Low-Fidelity Prototype](./Low_Fidelity_Prototype)
+2. [High-Fidelity Prototype](./High_Fidelity_Prototype)
+3. [Concept Video](./Concept Video)
+4. Heuristic evaluation is presented in the ```HCI.pdf```
+5. [Story Boarding](./Low_Fidelity_Prototype)
 
 
 ### The [project pdf](./HCI_project_PPT.pdf) contains :
